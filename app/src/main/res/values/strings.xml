@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TableReserve</string>
+    <string name="name">Name</string>
+    <string name="please_enter_your_name">Please Enter Your Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="please_enter_your_mobile_number">Please Enter Your Mobile Number</string>
+    <string name="size_of_the_group">Size of the group</string>
+    <string name="please_enter_the_size_of_your_company">Please Enter the size of your company</string>
+    <string name="smoking_table">Smoking Table?</string>
+    <string name="confirm">Confirm</string>
+    <string name="reset">Reset</string>
+</resources>
