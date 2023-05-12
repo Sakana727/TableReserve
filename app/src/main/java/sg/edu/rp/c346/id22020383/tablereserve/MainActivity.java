@@ -107,7 +107,7 @@ public class MainActivity extends AppCompatActivity {
 
         date.init(date.getYear(), date.getMonth(), date.getDayOfMonth(), (view, year, monthOfYear, dayOfMonth) -> {
             Calendar selectedDateTime = Calendar.getInstance();
-            selectedDateTime.set(year, monthOfYear, dayOfMonth, time.getCurrentHour(), time.getCurrentMinute());
+            selectedDateTime.set(year, monthOfYear, dayOfMonth);
 
             Calendar currentDateTime = Calendar.getInstance();
             Calendar maxDateTime = Calendar.getInstance();
